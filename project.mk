@@ -9,7 +9,7 @@ PROJECT_DESCRIPTION=zeroconf-advertiser
 PROJECT_WEBSITE=http://github.com/jdkoftinoff/zeroconf-advertiser
 PROJECT_IDENTIFIER=com.statusbar.zeroconf-advertiser
 TOP_LIB_DIRS+=.
-CONFIG_TOOLS+=
+CONFIG_TOOLS+=$(US_DIR)/microsupport-config
 PKGCONFIG_PACKAGES+=
 
 
