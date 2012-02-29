@@ -1,3 +1,6 @@
 
-Minimalistic zeroconf-mdns advertiser daemon
+Minimalistic zeroconf-mdns advertiser daemon, using jdns from http://delta.affinix.com/jdns/ as a starting point.
+
+Jeff Koftinoff
+jeff@jdkoftinoff.com
 
